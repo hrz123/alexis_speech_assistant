@@ -1,0 +1,6 @@
+speechrecognition==3.8.1
+pyaudio==0.2.11
+gTTS==2.0.4
+playsound==1.2.2
+pyobjc==6.1
+pylint==2.4.4
